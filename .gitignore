@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Model artifacts (large files — store via Git LFS or cloud storage)
+model/*.keras
+model/*.h5
+model/*.pkl
+
+# Generated assets (reproducible, no need to commit)
+assets/*.png
+assets/*.jpg
+
+# Data
+data/
+
+# Streamlit
+.streamlit/
+
+# Jupyter remnants
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
