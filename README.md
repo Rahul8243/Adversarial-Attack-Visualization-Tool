@@ -116,7 +116,7 @@ cifar10_adversarial/
 ### 1 — Clone & install
 
 ```bash
-git clone https://github.com/<rahul8253>/cifar10-adversarial.git
+git clone https://github.com/Rahul8243/cifar10-adversarial.git
 cd cifar10-adversarial
 pip install -r requirements.txt
 ```
